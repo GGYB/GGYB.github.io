@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://ggyb.me/posts/2017%E5%B9%B44%E6%9C%8823%E6%97%A5%E5%B0%8F%E8%AE%A1/</loc>
+    <lastmod>2017-04-23T14:42:26+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://ggyb.me/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://ggyb.me/</loc>
+    <lastmod>2017-04-23T14:42:26+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://ggyb.me/posts/</loc>
+    <lastmod>2017-04-23T14:42:26+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://ggyb.me/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://ggyb.me/categories/%E9%9A%8F%E7%AC%94/</loc>
+    <lastmod>2017-04-23T14:42:26+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
